@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "l.png"
+  avatar           : "cat.png"
   name             : "Zhou Wenyan(周文燕)"
   pronouns         :  "she/her"  
   bio              : "Be fearless in pursuit of happiness"
