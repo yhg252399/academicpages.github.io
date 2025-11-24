@@ -7,9 +7,74 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+👋 欢迎来到我的个人主页
+大家好！我是 XXX，来自 江西理工大学信息安全专业（2025级）。
+这是我在大学里的第一个个人主页，用来记录我的学习、成长和项目。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我对 网络安全、编程、开源技术 很感兴趣，希望未来能够成为一名网络安全工程师或开发者。
+
+🧭 关于我（About Me）
+🎓 信息安全专业大一新生
+💻 正在学习：C 语言、Git/GitHub、网络安全基础
+🌱 兴趣领域：网络安全、Python、小型项目
+✨ 目标：完成 10+ 小项目、参加一次 CTF、学好算法和编程基础
+📘 我正在学习的课程
+C 语言程序设计
+计算机基础与网络基础
+网络空间安全导论
+高等数学
+大学英语
+🚀 我正在学习的技能
+基础技能
+Git 与 GitHub 基本操作
+Markdown 写作
+C 语言基础语法
+Linux 基本命令（ls, cd, pwd, cat 等）
+想要学习的技能
+Python 编程
+Web 安全入门
+Wireshark 抓包与数据分析
+简单 CTF 的练习（Web/密码学/Misc）
+🧪 最近完成的学习成果
+完成了 我的第一个 GitHub 仓库
+编写了 第一份 Markdown 文件
+使用 Git 实现了 add → commit → push
+完成一次简单的 Wireshark 抓包实验
+写了一个 学生管理系统（C语言课程作业）
+💡 我的项目展示（Projects）
+以下项目为课程作业或兴趣项目，大一阶段不要求复杂项目。
+
+📘 学生管理系统（C语言）
+一个可以添加、删除、修改学生信息的小程序，使用 TXT 文件存储数据。
+👉 GitHub 项目链接：（你的链接）
+
+🌐 我的个人主页（GitHub Pages）
+使用 GitHub Pages + Markdown 创建的静态网站，这是我的第一个网站。
+👉 GitHub 项目链接：（你的链接）
+
+🕸 Python 小爬虫（可选）
+一个用于爬取天气/新闻的小脚本，用来练习 Python。
+👉 GitHub 项目链接：（你的链接）
+
+🎯 我的大学四年计划
+学好 C 语言、数据结构、计算机网络等基础课
+至少完成 10 个小项目
+参加一次 CTF 或编程比赛
+进入实验室/兴趣小组（如网安协会）
+学会一项长期兴趣爱好（摄影、跑步、音乐等）
+🎮 兴趣爱好
+🎬 喜欢的电影：星际穿越、模仿游戏
+🎮 喜欢的游戏：Minecraft / 王者荣耀
+🏃 爱好：跑步、健身、拍照
+📚 喜欢学习新技术与动手制作小项目
+📬 联系方式
+GitHub: https://github.com/yourname
+学校邮箱：yourname@edu.com
+CSDN / Bilibili（可选）
+❗ 为保护个人隐私，不建议公开手机号和微信。
+
+感谢你访问我的主页！
+如果你也对编程和网络安全感兴趣，欢迎交流与学习 🙌
 
 A data-driven personal website
 ======
